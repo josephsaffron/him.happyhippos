@@ -13,17 +13,15 @@ categories:
 ---
 **Comfort food**
   
-Crazy Canuck
+Crazy Canuck (new location in Downtown Kitchener!)
   
 Crossroads Family Restaurant
   
 Hog's Tail - get the Chicken and Waffles
   
 SOS BBQ - amazing fish and chips!
-  
-<del>Frites</del>
-  
-Pierogies
+
+Mark's Carribbean
   
 The Village Eatery
 
@@ -34,6 +32,8 @@ Kinkaku
 Mikey's Eatery (toast and milk tea and sesame chicken)
   
 Bogda
+
+Gol's Lanzhou Noodles (hand pulled noodles)
   
 Foodie Fruitie - GREAT ramen!
 
@@ -44,6 +44,8 @@ Fork and Cork
 Del's Enoteca
   
 Borealis
+
+PUBLIC Kitchen and Bar
   
 Langdon Hall
 
@@ -52,3 +54,5 @@ Langdon Hall
 Noon Moment
   
 Sugar Marmalade
+
+Onezo Bubble Tea (hand made bubbles - definitely try the black sesame bubbles!)
