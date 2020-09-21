@@ -1,7 +1,7 @@
 ---
 id: 254
 title: "Best places (we\'ve found) to eat in KWC"
-date: 2016-01-20T17:06:30+00:00
+date: 2020-09-20T17:06:30+00:00
 author: him.happyhippos
 layout: post
 guid: http://him.happyhippos.ca/?p=254
@@ -15,31 +15,35 @@ categories:
   
 Crazy Canuck (new location in Downtown Kitchener!)
   
-Crossroads Family Restaurant
-  
-Hog's Tail - get the Chicken and Waffles
-  
 SOS BBQ - amazing fish and chips!
 
 Mark's Carribbean
   
 The Village Eatery
 
+Malt and Barley - excellent pub style food
+
+Muya - authentic ethiopian food
+
+Arabesque - best pitas in the world
+
 **Asian**
   
-Kinkaku
+Kinkaku - the best and most expensive AYCE sushi in town
   
-Mikey's Eatery (toast and milk tea and sesame chicken)
-  
-Bogda
+Bogda - good if you like spicy
 
 Gol's Lanzhou Noodles (hand pulled noodles)
   
-Foodie Fruitie - GREAT ramen!
+Crafty Ramen
+
+Opening soon - Sensotei Ramen! 
+
+Wooden Boat
+
+Bao - definitely try the five spice pork belly
 
 **Fine(ish) dining**
-  
-Fork and Cork
   
 Del's Enoteca
   
@@ -49,10 +53,12 @@ PUBLIC Kitchen and Bar
   
 Langdon Hall
 
+Proof Kitchen + Lounge
+
 **Dessert and Drinks**
   
-Noon Moment
-  
-Sugar Marmalade
+Noon Moment - Great fruit smoothies
 
 Onezo Bubble Tea (hand made bubbles - definitely try the black sesame bubbles!)
+
+Yifang - best tasting tea in bubble tea

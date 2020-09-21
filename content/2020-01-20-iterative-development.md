@@ -1,3 +1,17 @@
+---
+id: 267
+title: Take your Grade 9s to work and give them a presentation
+date: 2020-01-20T00:02:26+00:00
+author: him.happyhippos
+layout: post
+---
+
+For some reason, I decided to volunteer to give a talk about software development to some Grade 9s.  It was an interesting experience, to say the least.
+I had to think of things to keep them engaged, and I really felt when they made a connection. I also really felt when I had lost them completely - they all had phones. =/
+For better or worse, my notes are below:
+
+
+
 How do we come up with an idea for a product?
 You might think that there are people who sit around D2L, whose job it is to think of things to build
 You might think that ideas come from people who use our systems, and pay us to build things for them
@@ -15,7 +29,7 @@ What would you come up with?
 What if you then found out the street was Yonge street (56 km?)
 What if you they told you the rocks were diamonds?
 
-a lot of times, people don't know or can't describe what they want, and we need people to ask good questions and tease that out of them.
+A lot of times, people don't know or can't describe what they want, and we need people to ask good questions and tease that out of them.
 
 That's why it's important to talk to the people you're building things for.  We at D2L spend a lot of time testing things with people, 
 bringing them in to try our designs, and seeing how they interact with those designs.
